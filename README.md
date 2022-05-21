@@ -1,16 +1,12 @@
-### Hi there 👋
+### I love retro stuff remastered, or in original form.
 
-<!--
-**froxcey/Froxcey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- He/him
+- Currently learning C++ and Qt
+- Maintainer of Mineways on Mac
+- Contributor of AvdanOS
+- Indiedev, sort of
+- Developer of some random spigot plugins
+- Email: danichen204@gmail.com
+- Discord: Froxcey#3658
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Froxcey Inc.
