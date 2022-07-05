@@ -1,7 +1,7 @@
-### I love retro stuff remastered, or in original form.
+### I love retro stuff
 
 - He/him
-- Currently learning C++ and Qt
+- Currently learning Rust
 - Maintainer of Mineways on Mac
 - Contributor of AvdanOS
 - Indiedev, sort of
@@ -10,3 +10,5 @@
 - Discord: Froxcey#3658
 
 Froxcey Inc.
+
+![vibe](https://user-images.githubusercontent.com/51555391/176177206-ec3f9dce-8780-4fe8-b6ac-5eeeac2038d4.gif)
