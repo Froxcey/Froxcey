@@ -1,8 +1,9 @@
-### I love retro stuff
+## Hello, I'm Froxcey, Froxcey the Froxcer
 
 - He/him
 - Front/back end dev (Ts main lang)
-- Full indiedev, sort of
+- Love retro style games with pixel arts
+- Indiedev, sort of
 - Learning Rust
 - Contributor of AvdanOS
 - Developer of some very random spigot plugins
