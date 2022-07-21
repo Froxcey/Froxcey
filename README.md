@@ -1,11 +1,11 @@
 ### I love retro stuff
 
 - He/him
-- Currently learning Rust
-- Maintainer of Mineways on Mac
+- Front/back end dev (Ts main lang)
+- Full indiedev, sort of
+- Learning Rust
 - Contributor of AvdanOS
-- Indiedev, sort of
-- Developer of some random spigot plugins
+- Developer of some very random spigot plugins
 - Email: danichen204@gmail.com
 - Discord: Froxcey#3658/Hypersun_pro#6620
 
