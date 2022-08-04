@@ -8,6 +8,7 @@
 - Contributor of AvdanOS
 - Developer of some very random spigot plugins
 - Email: danichen204@gmail.com
+- [Public GPG key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xf5ba872d956dea4ec6528cb6621379e1d6250388)
 - Discord: Froxcey#3658/Hypersun_pro#6620
 
 ![](https://komarev.com/ghpvc/?username=froxcey&style=for-the-badge)
