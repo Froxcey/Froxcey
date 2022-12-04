@@ -1,19 +1,15 @@
 ## Hello, I'm Froxcey, Froxcey the Froxcer
 
-> "No copyright infringement intended" - People I sue
+> "All rights go back to the original owner" - People I use my *right to sue* on
 
-- Indie game dev
-- Spigot dev
-- Web dev
-- Love retro style games with pixel arts
-
-![languages: typescript and java](https://user-images.githubusercontent.com/51555391/186546996-24c6f6f1-2668-4a22-9927-ca8c60e8d3de.svg)
-
-![Pronoun: he/him](https://user-images.githubusercontent.com/51555391/186547957-55f502dc-554c-4ebc-9e79-c1cd56585455.svg)
-
-[![Public GPG key](https://user-images.githubusercontent.com/51555391/186547601-14da2406-6760-4917-aa34-c55c81d0cbc8.svg)](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xf5ba872d956dea4ec6528cb6621379e1d6250388)
-
-[![Discord: froxcey#3658](https://user-images.githubusercontent.com/51555391/186547419-d6fb4cad-1f0b-4e1d-92f6-11c7f077dcb2.svg)](https://discord.com/users/496177812575748107)
+- He/him
+- Made: Some websites, some small utilities, some terrible soundtracks, and some Minecraft Spigot plugins
+- Making: Maybe a game, maybe a Fabric mod, maybe some better soundtracks, and maybe a full blown web-server
+- Know: TypeScript, some Java, some React, some music theory, some Blender, and some Taiwanese
+- Learning: Rust, Tauri, Fabric, and Japanese
+- Ditching: C, C++, Python, Electron apps (yes, including VSC), and maybe MacOS someday
+- Love: Arch running on MacBook, retro style RPGs, music, package managers, recting some kids with Tosty (in Minecraft), and maybe Rust
+- Hate: JAVA! I HATE JAVA!!!
 
 ![](https://komarev.com/ghpvc/?username=froxcey&style=for-the-badge&color=d88516)
 
