@@ -8,7 +8,7 @@
 - Know: TypeScript, some Java, some React, some music theory, some Blender, and some Taiwanese
 - Learning: Rust, Tauri, Fabric, and Japanese
 - Ditching: C, C++, Python, Electron apps (yes, including VSC), and maybe MacOS someday
-- Love: Arch running on MacBook, retro style RPGs, music, package managers, recting some kids with Tosty (in Minecraft), and maybe Rust
+- Love: Arch running on MacBook, retro style RPGs, music, package managers, rekting some kids with Tosty (in Minecraft), and maybe Rust
 - Hate: JAVA! I HATE JAVA!!!
 
 ![](https://komarev.com/ghpvc/?username=froxcey&style=for-the-badge&color=d88516)
