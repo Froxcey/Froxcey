@@ -1,15 +1,96 @@
-## Hello, I'm Froxcey, Froxcey the Froxcer
+# ちーっす！！
 
-> "All rights go back to the original owner" - People I use my *right to sue* on
+I make stuff.
 
-- He/him
-- Made: Some websites, some small utilities, some terrible soundtracks, and some Minecraft Spigot plugins
-- Making: Maybe a game, maybe a Fabric mod, maybe some better soundtracks, and maybe a full blown web-server
-- Know: TypeScript, some Java, some React, some music theory, some Blender, and some Taiwanese
-- Learning: Rust, Tauri, Fabric, and Japanese
-- Ditching: C, C++, Python, Electron apps (yes, including VSC), and maybe MacOS someday
-- Love: Arch running on MacBook, retro style RPGs, music, package managers, rekting some kids with Tosty (in Minecraft), and maybe Rust
-- Hate: JAVA! I HATE JAVA!!!
+<table>
+    <thead align="center">
+        <tr>
+            <td colspan=4>Da Skills Table</td>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td>Skill</td>
+            <td>Status</td>
+            <td>Skill</td>
+            <td>Status</td>
+        </tr>
+        <tr>
+            <td colspan=2>Programming Lang</td>
+            <td colspan=2>Minecraft</td>
+        </tr>
+        <tr>
+            <td>Typescript</td>
+            <td>🚀</td>
+            <td>Farms</td>
+            <td>🚀</td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td>👌</td>
+            <td>Redstone</td>
+            <td>👌</td>
+        </tr>
+        <tr>
+            <td>Shell</td>
+            <td>👌</td>
+            <td>Spigot</td>
+            <td>👌</td>
+        </tr>
+        <tr>
+            <td>Rust</td>
+            <td>🔰</td>
+            <td>Fabric</td>
+            <td>⏳</td>
+        </tr>
+        <tr>
+            <td colspan=2>Frameworks</td>
+            <td colspan=2>Languages</td>
+        </tr>
+        <tr>
+            <td>NodeJS</td>
+            <td>🚀</td>
+            <td>English</td>
+            <td>👌</td>
+        </tr>
+        <tr>
+            <td>Express</td>
+            <td>🚀</td>
+            <td>Chinese</td>
+            <td>👌</td>
+        </tr>
+        <tr>
+            <td>NextJS</td>
+            <td>👌</td>
+            <td>Japanese</td>
+            <td>🔰</td>
+        </tr>
+        <tr>
+            <td>Astro</td>
+            <td>🔰</td>
+            <td colspan=2>Creativity</td>
+        </tr>
+        <tr>
+            <td>Tauri</td>
+            <td>🔰</td>
+            <td>Pixel art</td>
+            <td>👌</td>
+        </tr>
+        <tr>
+            <td>BunJS</td>
+            <td>🔰</td>
+            <td>Make Soundtracks</td>
+            <td>🔰</td>
+        </tr>
+        <tr>
+            <td>Svelte</td>
+            <td>⏳</td>
+            <td>Make game</td>
+            <td>🔰</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ![](https://komarev.com/ghpvc/?username=froxcey&style=for-the-badge&color=d88516)
 
