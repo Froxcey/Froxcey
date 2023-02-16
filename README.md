@@ -1,6 +1,4 @@
-# ちーっす！！
-
-I make stuff.
+![title](https://user-images.githubusercontent.com/51555391/219424687-50421e5a-e990-49b9-bb17-4e216306d237.png)
 
 <table>
     <thead align="center">
