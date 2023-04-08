@@ -89,6 +89,8 @@
     </tbody>
 </table>
 
+Unless otherise specified, all software released are source available with all rights reserved.
+
 Contact me: `@froxcey:matrix.org`
 
 ![](https://komarev.com/ghpvc/?username=froxcey&style=for-the-badge&color=d88516)
