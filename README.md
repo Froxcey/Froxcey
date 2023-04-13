@@ -36,7 +36,7 @@
             <td>👌</td>
         </tr>
         <tr>
-            <td>Rust</td>
+            <td>🦀</td>
             <td>🔰</td>
             <td>Fabric</td>
             <td>⏳</td>
