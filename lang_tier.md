@@ -15,12 +15,14 @@ This is not a ranking of good and bad of langauges, just their theoretical perfo
 - Mojo
 - Ru**
 - Nim
+- Odin
 
 ## B: Garbage collected
 
 - Golang
 - Swift
 - OCaml
+- Gleam
 - Haskell
 - C#
 - ObjC
@@ -35,7 +37,7 @@ This is not a ranking of good and bad of langauges, just their theoretical perfo
   - Scala
 - Erlang
 - Elixir
-- Lisp
+- Common Lisp
 - COBOL
 
 ## D+: Fast JIT
