@@ -22,6 +22,7 @@ Languages in this tier allows developers to have complete control over memory ma
 - Ru**
 - Nim
 - Odin
+- Fortran
 
 ## B: Garbage collected
 
@@ -36,6 +37,7 @@ Languages in this tier can be compiled to machine code but has a runtime to mana
 - C#
 - ObjC
 - COBOL
+- Pascal
 
 ## C: Bytecode
 
@@ -48,7 +50,6 @@ Languages in this tier requires compilation into bytecode with a runtime interpr
   - Scala
 - Erlang
 - Elixir
-- Common Lisp
 
 ## D+: Embedded JIT
 
@@ -69,14 +70,13 @@ Languages in this tier are JIT with the primary purpose of scripting
 - PHP
 - HolyC
 - Perl
-- Pascal
+- Common Lisp
 
 ## D-: Interpreted
 
-Lanaguages in this tier lacks JIT
+Lanaguages in this tier needs JIT
 
 - ShellScript
-- Fortran
 
 ## F: Esoteric
 
