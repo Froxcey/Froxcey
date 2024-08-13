@@ -40,7 +40,7 @@ This is not a ranking of good and bad of langauges, just their theoretical perfo
 - Common Lisp
 - COBOL
 
-## D+: Fast JIT
+## D+: Embedded JIT
 
 - JavaScript
   - TypeScript
