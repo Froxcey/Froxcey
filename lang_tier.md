@@ -1,6 +1,6 @@
 # Language Tiers
 
-**THIS IS NOT RANKING OF GOOD AND BAD OF LANGUAGES**
+**THIS IS NOT RANKING OF GOOD AND BAD OF LANGUAGES!**
 Different languages trades simplicity of resource management with performance, and this tier list simply categorizes languages based on their theoretical performance based on the most common implementation. A well written JIT app can run faster than a poorly written assemply code. Languages are only tools, and it is how developer use these tools for what application that matters. The languages in each categories are not listed in any particular order. I ain't expert in every language, so please let me know if I made a mistake.
 
 ## S: Machine code
