@@ -19,7 +19,7 @@ Languages in this tier allows developers to have complete control over memory ma
 - C++
 - Zig
 - Mojo
-- Ru**
+- Rust
 - Nim
 - Odin
 - Fortran
