@@ -1,10 +1,16 @@
-Pragmatic Ziglang and Fumo culture promoter. I can also do typescript. I started as a web dev, now learning more zig and HTMX.
+**From**: Taiwan
 
-Other than that, I can also do music and pixel art. Language-wise, I can do English, Chinese, and a little bit of Japanese.
+**Studying**: Management @ [University of Birmingham](https://www.bham.ac.uk/)
 
-Unless otherise specified, all software released are source available with all rights reserved. Please refer to the respective readme for license and usage.
+**Programs**: [Typescript](https://www.typescriptlang.org/) & [Zig](https://ziglang.org/)
 
-My collab org: [@chiissu](https://github.com/chiissu)
+**Speaks**: Fluently in English & Chinese, learning Taiwanese & Japanese
+
+**Into**: [Animanga](https://anilist.co/user/Froxcey), [Touhou](https://touhou-project.news/), and Product design
+
+**Drinks**: Plum liquor & Macchiato
+
+Collaborate with me on [@Chiissu](https://github.com/chiissu)
 
 ![](https://komarev.com/ghpvc/?username=froxcey&style=for-the-badge&color=d88516)
 
