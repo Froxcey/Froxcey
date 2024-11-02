@@ -4,7 +4,7 @@
 
 **Programs**: [Typescript](https://www.typescriptlang.org/) & [Zig](https://ziglang.org/)
 
-**Speaks**: Fluently in English & Chinese, learning Taiwanese & Japanese
+**Speaks**: Fluently in English, learning Taiwanese & Japanese, HATES Mandarin
 
 **Into**: [Animanga](https://anilist.co/user/Froxcey), [Touhou](https://touhou-project.news/), and Product design
 
