@@ -1,6 +1,6 @@
 **From**: Taiwan
 
-**Studying**: Management @ [University of Birmingham](https://www.bham.ac.uk/)
+**Studying**: Management @ [UoBham](https://www.bham.ac.uk/)
 
 **Programs**: [Typescript](https://www.typescriptlang.org/) & [Zig](https://ziglang.org/)
 
