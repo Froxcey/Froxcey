@@ -6,7 +6,7 @@
 
 **Speaks**: Fluently in English, learning Taiwanese & Japanese, HATES Mandarin
 
-**Into**: [Animanga](https://frox.tw/al), [Touhou](https://touhou-project.news/), and Product design
+**Into**: [Animanga](https://frox.tw/al)/[Touhou](https://touhou-project.news/), Creative Productions
 
 **Drinks**: Umeshu & Macchiato
 
