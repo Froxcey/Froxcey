@@ -8,9 +8,9 @@
 
 **Into**: [Animanga](https://frox.tw/al), [Touhou](https://touhou-project.news/), and Product design
 
-**Drinks**: Plum liquor & Macchiato
+**Drinks**: Umeshu & Macchiato
 
-Collaborate with me on [@Chiissu](https://github.com/chiissu)
+As part of Team [@Chiissu](https://github.com/chiissu)
 
 ![](https://komarev.com/ghpvc/?username=froxcey&style=for-the-badge&color=d88516)
 
