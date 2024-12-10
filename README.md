@@ -1,16 +1,18 @@
 **From**: Taiwan
 
-**Studying**: Management @ [UoBham](https://www.bham.ac.uk/)
+**Studying**: Management @ [UoB](https://www.bham.ac.uk/)
 
 **Programs**: [Typescript](https://www.typescriptlang.org/) & [Zig](https://ziglang.org/)
 
-**Speaks**: Fluently in English, learning Taiwanese & Japanese, HATES Mandarin
+**Making**: [V2D](https://github.com/chiissu/v2d) & [AniGiffn](https://giffn.frox.tw)
 
-**Into**: [Animanga](https://frox.tw/al)/[Touhou](https://touhou-project.news/), Creative Productions
+**Speaks**: Fluent in English, okay in Taiwanese, learning Japanese, hates mandarin
+
+**Into**: [Animanga](https://frox.tw/anl)/[Touhou](https://touhou-project.news/), Creative Productions
 
 **Drinks**: Umeshu & Macchiato
 
-As part of Team [@Chiissu](https://github.com/chiissu)
+Proud co-founder of [Chiissu](https://github.com/chiissu) (￣ω￣)*
 
 ![](https://komarev.com/ghpvc/?username=froxcey&style=for-the-badge&color=d88516)
 
