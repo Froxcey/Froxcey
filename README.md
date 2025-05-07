@@ -2,8 +2,6 @@ Cooking Touhou & MyGO memes 24/7
 
 **From**: Taiwan
 
-**Studying**: Management @ [UoB](https://www.bham.ac.uk/)
-
 **Writes**: [Typescript](https://www.typescriptlang.org/) & [Zig](https://ziglang.org/)
 
 **Making**: [V2D](https://codeberg.com/chiissu/v2d)
