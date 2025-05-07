@@ -1,14 +1,12 @@
+Cooking Touhou & MyGO memes 24/7
+
 **From**: Taiwan
 
 **Studying**: Management @ [UoB](https://www.bham.ac.uk/)
 
-**Programs**: [Typescript](https://www.typescriptlang.org/) & [Zig](https://ziglang.org/)
+**Writes**: [Typescript](https://www.typescriptlang.org/) & [Zig](https://ziglang.org/)
 
-**Making**: [V2D](https://github.com/chiissu/v2d) & [AniGiffn](https://giffn.frox.tw)
-
-**Speaks**: Fluent in English, okay in Taiwanese, learning Japanese, hates mandarin
-
-**Into**: [Animanga](https://frox.tw/anl)/[Touhou](https://touhou-project.news/), Creative Productions
+**Making**: [V2D](https://codeberg.com/chiissu/v2d)
 
 **Drinks**: Umeshu & Macchiato
 
