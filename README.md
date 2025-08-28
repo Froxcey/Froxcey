@@ -1,12 +1,8 @@
 Cooking Touhou & MyGO memes 24/7
 
-**From**: Taiwan
-
 **Writes**: [Typescript](https://www.typescriptlang.org/) & [Zig](https://ziglang.org/)
 
-**Making**: [V2D](https://codeberg.com/chiissu/v2d)
-
-**Drinks**: Umeshu & Macchiato
+**Making**: [V2D](https://cgit.v2d.live/)
 
 Proud co-founder of [Chiissu](https://github.com/chiissu) (￣ω￣)*
 
