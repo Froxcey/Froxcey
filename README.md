@@ -1,5 +1,7 @@
 Cooking Touhou & MyGO memes 24/7
 
+**Langs**: En/繁中
+
 **Writes**: [Typescript](https://www.typescriptlang.org/) & [Zig](https://ziglang.org/)
 
 **Making**: [V2D](https://cgit.v2d.live/)
